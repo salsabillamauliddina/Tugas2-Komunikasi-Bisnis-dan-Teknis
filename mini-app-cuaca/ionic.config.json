@@ -1,0 +1,7 @@
+{
+  "name": "mini-app-cuaca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
